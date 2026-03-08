@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+ # RoleIntel
 
-# Run and deploy your AI Studio app
+RoleIntel is a prototype built during a vibe-coding workshop led by Ankit Shukla (HelloPM).
 
-This contains everything you need to run your app locally.
+The goal was to explore how quickly an idea can move from concept to working prototype using AI tools.
 
-View your app in AI Studio: https://ai.studio/apps/977f504e-cd6d-4139-9b3b-a02fc245f324
+## What it does
 
-## Run Locally
+RoleIntel converts a job description into a structured interview preparation guide.
 
-**Prerequisites:**  Node.js
+Upload a job description and your resume to generate insights such as:
 
+- Core role requirements
+- Skills to highlight
+- Interview narrative
+- Potential interview questions
+- Resume gaps
+- Company insights
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Context
+
+This project was built as part of a rapid AI prototyping exercise using Google AI Studio and the Gemini API.
+
+The focus was not just on building the tool, but on exploring how AI can accelerate product experimentation.
+
+## Status
+
+Prototype / learning experiment.
