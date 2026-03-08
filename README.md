@@ -1,6 +1,6 @@
  # RoleIntel
 
-RoleIntel is a prototype built during a vibe-coding workshop led by Ankit Shukla (HelloPM).
+RoleIntel is a prototype built during a vibe-coding masterclass led by Ankit Shukla (HelloPM).
 
 The goal was to explore how quickly an idea can move from concept to working prototype using AI tools.
 
@@ -19,7 +19,9 @@ Upload a job description and your resume to generate insights such as:
 
 ## Context
 
-This project was built as part of a rapid AI prototyping exercise using Google AI Studio and the Gemini API.
+This project started as a **15-minute app-building exercise during a vibe-coding masterclass led by Ankit Shukla (HelloPM)**. The initial prompt was to build a simple tool that converts a job description into an interview preparation guide.
+
+I extended the exercise by turning it into a small product prototype called **RoleIntel**, adding branding, UI structure, and additional analysis components to make the output more useful for interview preparation.
 
 The focus was not just on building the tool, but on exploring how AI can accelerate product experimentation.
 
