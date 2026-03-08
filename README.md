@@ -1,8 +1,7 @@
  # RoleIntel
 
-RoleIntel is a prototype built during a vibe-coding masterclass led by Ankit Shukla (HelloPM).
-
-The goal was to explore how quickly an idea can move from concept to working prototype using AI tools.
+Turn any job description into an interview strategy.
+Analyze the role, align your experience, and prepare for the interview with confidence.
 
 ## What it does
 
